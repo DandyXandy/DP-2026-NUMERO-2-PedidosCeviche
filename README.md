@@ -4,9 +4,9 @@
 | Nombre | Código UTP | Usuario GitHub | Rol |
 |---|---|---|---|
 | Dandy Alexandre Abadie Atoche | U23217843 | @DandyXandy | Coordinación y documentación |
-| Axel Samir Ojeda Paredes | U24252010 | (pendiente) | Pedido, Main y UML |
-| Any Yanela Raymundo Ancajima | U24252130 | (pendiente) | ItemMenu y hojas (Plato) |
-| Diego Armando Prieto Chavez | U24232045 | (pendiente) | Combo (Composite) |
+| Axel Samir Ojeda Paredes | U24252010 | @SamirOFL | Pedido, Main y UML |
+| Any Yanela Raymundo Ancajima | U24252130 | @DiegoAPCh | ItemMenu y hojas (Plato) |
+| Diego Armando Prieto Chavez | U24232045 | @AnyRaymundo | Combo (Composite) |
 
 **Grupo:** 5
 
@@ -29,12 +29,6 @@ cada vez que aparece un nuevo tipo de combo.
 
 ## Diagrama de clases
 ![Diagrama de clases](docs/diagrama-clases.png)
-
-## Cómo compilar y ejecutar
-```
-javac -d bin src/Main.java src/modelo/*.java src/patrones/composite/*.java
-java -cp bin Main
-```
 
 ## Capturas de pantalla
 (pendiente)
