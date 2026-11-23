@@ -1,11 +1,15 @@
-# DP-2026-GrupoN-PedidosCeviche
+# DP-2026-Grupo5-PedidosCeviche
 
 ## Integrantes
 | Nombre | Código UTP | Usuario GitHub | Rol |
-|Dandy Alexandre Abadie Atoche|U23217843|DandyXandy|(vamos definir)|
-| Axel Samir Ojeda Paredes | U24252010 |            |(Vamos defirni)|
-|Any Yanela Raymundo Ancajima| U24252130|           |(Vamos Definir)|
-|Diego Armando Prieto Chavez| U24232045|            |(Vamos Definir)|
+|---|---|---|---|
+| Dandy Alexandre Abadie Atoche | U23217843 | @DandyXandy | Coordinación y documentación |
+| Axel Samir Ojeda Paredes | U24252010 | (pendiente) | Pedido, Main y UML |
+| Any Yanela Raymundo Ancajima | U24252130 | (pendiente) | ItemMenu y hojas (Plato) |
+| Diego Armando Prieto Chavez | U24232045 | (pendiente) | Combo (Composite) |
+
+**Grupo:** 5
+
 ## Problema que resuelve
 Una cevichería vende platos sueltos y combos. Los combos pueden contener platos
 y también otros combos. Sin un diseño adecuado, calcular el total o mostrar el
